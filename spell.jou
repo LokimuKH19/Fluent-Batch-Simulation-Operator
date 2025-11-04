@@ -1,0 +1,800 @@
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "3.25[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots1.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "6.715[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots2.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "7.615[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots3.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "7.210000000000001[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots4.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "4.06[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots5.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "5.275[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots6.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "4.6[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots7.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "9.91[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots8.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "4.735[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots9.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "1.585[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots10.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "7.66[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots11.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "1.54[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots12.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "3.115[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots13.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "4.645[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots14.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "5.23[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots15.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "6.625[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots16.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "2.935[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots17.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "5.095[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots18.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "5.95[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots19.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "6.76[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots20.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "2.35[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots21.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "6.94[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots22.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "9.415000000000001[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots23.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "9.370000000000001[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots24.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "8.11[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots25.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "9.1[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots26.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "3.385[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots27.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "4.555[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots28.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "1.765[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots29.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "9.55[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots30.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "5.77[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots31.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "8.965[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots32.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "1.315[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots33.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "4.915[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots34.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "9.235[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots35.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "5.635[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots36.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "8.290000000000001[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots37.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "1.0[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots38.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "9.325000000000001[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots39.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "5.005[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots40.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "3.025[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots41.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "2.485[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots42.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "2.8[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots43.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "5.455[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots44.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "5.86[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots45.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "8.335[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots46.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "8.559999999999999[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots47.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "6.040000000000001[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots48.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "1.09[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots49.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "1.9[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots50.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "1.855[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots51.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "2.62[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots52.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "5.995[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots53.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "3.79[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots54.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "1.045[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots55.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "2.26[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots56.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "8.785[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots57.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "7.03[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots58.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "1.18[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots59.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "4.96[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots60.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "8.875[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots61.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "1.81[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots62.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "2.845[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots63.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "3.745[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots64.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "1.72[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots65.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "6.399999999999999[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots66.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "2.575[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots67.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "7.300000000000001[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots68.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "8.92[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots69.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "3.88[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots70.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "3.97[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots71.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "4.375[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots72.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "7.435[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots73.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "7.12[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots74.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "6.985[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots75.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "2.215[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots76.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "8.38[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots77.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "8.02[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots78.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "1.135[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots79.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "7.93[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots80.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "8.425[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots81.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "2.53[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots82.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "5.365[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots83.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "3.61[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots84.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "3.52[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots85.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "4.15[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots86.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "9.64[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots87.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "4.69[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots88.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "9.685[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots89.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "5.185[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots90.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "2.305[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots91.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "5.905[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots92.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "9.955[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots93.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "8.245000000000001[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots94.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "5.545[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots95.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "2.665[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots96.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "2.08[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots97.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "5.5[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots98.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "2.125[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots99.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "6.58[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots100.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "7.975000000000001[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots101.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "3.475[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots102.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "4.51[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots103.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "2.71[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots104.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "5.140000000000001[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots105.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "3.565[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots106.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "9.055[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots107.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "1.36[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots108.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "4.105[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots109.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "3.43[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots110.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "1.99[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots111.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "1.45[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots112.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "4.824999999999999[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots113.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "7.345[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots114.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "3.205[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots115.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "1.63[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots116.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "5.815[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots117.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "3.295[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots118.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "8.515[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots119.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "6.355[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots120.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "9.775[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots121.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "1.27[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots122.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "6.805[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots123.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "4.195[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots124.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "4.24[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots125.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "7.48[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots126.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "5.32[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots127.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "3.655[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots128.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "6.31[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots129.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "3.16[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots130.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "4.285[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots131.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "3.34[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots132.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "9.82[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots133.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "8.83[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots134.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "8.065000000000001[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots135.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "8.47[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots136.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "4.465[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots137.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "7.795[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots138.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "5.725000000000001[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots139.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "9.145[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots140.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "5.68[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots141.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "9.46[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots142.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "2.035[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots143.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "7.075[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots144.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "9.595[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots145.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "8.74[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots146.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "8.155000000000001[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots147.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "4.015000000000001[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots148.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "7.57[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots149.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "2.44[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots150.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "1.495[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots151.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "7.84[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots152.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "2.17[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots153.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "3.835[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots154.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "6.49[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots155.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "6.535[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots156.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "9.19[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots157.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "8.695[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots158.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "9.01[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots159.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "2.98[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots160.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "5.05[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots161.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "6.895[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots162.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "7.705[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots163.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "9.280000000000001[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots164.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "9.505[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots165.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "6.67[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots166.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "3.925[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots167.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "6.850000000000001[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots168.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "6.22[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots169.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "6.130000000000001[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots170.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "1.945[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots171.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "1.405[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots172.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "4.42[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots173.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "6.265[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots174.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "3.07[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots175.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "9.865[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots176.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "7.255000000000001[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots177.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "7.524999999999999[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots178.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "8.605[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots179.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "9.73[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots180.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "6.445[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots181.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "6.085000000000001[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots182.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "5.59[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots183.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "2.89[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots184.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "4.87[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots185.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "6.175000000000001[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots186.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "7.885[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots187.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "8.649999999999999[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots188.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "7.165000000000001[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots189.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "5.41[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots190.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "4.779999999999999[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots191.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "7.75[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots192.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "3.7[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots193.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "1.225[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots194.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "2.395[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots195.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "1.675[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots196.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "7.39[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots197.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "2.755[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots198.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "8.2[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots199.csv () yes  q no
+/solve/initialize/hyb-initialization q o
+/define/named-expressions/edit "f" definition "4.33[]" q
+/solve/iterate 100
+/file/export/ascii F:/calculate_result/traindata/snapshots200.csv () yes  q no
