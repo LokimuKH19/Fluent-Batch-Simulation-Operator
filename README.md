@@ -5,10 +5,10 @@ A Fluent batch simulator (2020R2)
 
 > Due to I am very lazy therefore I am not willing to translate the comments and the documentaries into English in this repo. For the code is very old (earlier in 2024) If someone is extremely spare, just do this for me.
 
+> There's only one program file: main.py. Including all of the functions of this tool.
 
 
 ## 用法
-点开main.exe
 - 第零步：开着Fluent jou文件录制功能手动做一遍输入输出，看看生成的jou文件是什么格式，从而针对性地修改此程序
 - 第一步：先用一组输入参数生成一个settings文件，打开settings文件找到以(rbp/scenarios/save-load)和(rbp/scenario)开头的行，确定各输入变量和中间变量的顺序（旧功能，好像需要一个什么rpb插件，可能已报废）
 - 第二步：在本软件中输入各输入变量的上下限，希望生成的参数组个数以及对每组参数迭代计算的次数，并给出中间变量的一组取值(删除变量需双击变量名)
