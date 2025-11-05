@@ -20,7 +20,7 @@ A Fluent batch simulator (2020R2)
 ## 说明
 由于实在是找不到Ansys Deployer的破解方法所以用以上方式部署模型是没指望了，除非氪金
 
-点击生成jou文件按钮生成这个文件，在fluent中打开设置好的cas文件，然后在fluent中Read->Journal启动生成训练集，之后建立降阶模型，这个模型相比于Ansys Twins的完全开源且可以随便导出
+点击生成jou文件按钮生成这个文件，在fluent中打开设置好的cas文件，然后在fluent中Read->Journal启动生成训练集，之后建立降阶模型，这个模型相比于Ansys Twins完全开源(Why I explored Ansys Twins 1 year ago??? Doesn't make sense???)且可以随便导出
 
 生成的训练集模型在cas文件目录下的traindata_csv文件夹中，然后你用现在有的各种数据驱动算法随便搞就可以出论文了
 
